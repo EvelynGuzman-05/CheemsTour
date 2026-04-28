@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheemsTour</string>
+    <string name="view_map">View Map</string>
+    <string name="btnTripMap">Map</string>
+</resources>
