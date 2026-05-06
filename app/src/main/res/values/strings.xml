@@ -2,4 +2,14 @@
     <string name="app_name">CheemsTour</string>
     <string name="view_map">View Map</string>
     <string name="btnTripMap">Map</string>
+    <string name="form_name">Name:</string>
+    <string name="form_city">City:</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_add">Add</string>
+    <string name="btnTripAdd">Add trip</string>
+    <string name="textSavedTrip">Saved trip :D</string>
+    <string name="textNoSavedTrip">The trip could not be saved</string>
+    <string name="textSelectedLocation">Selected location</string>
+    <string name="textEmptyFields">Please fill in all fields :D</string>
+    <string name="txtTittle">Welcome</string>
 </resources>

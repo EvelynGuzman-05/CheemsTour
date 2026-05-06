@@ -21,6 +21,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         }
         val btnTripMap = findViewById<View>(R.id.btnTripMap) as Button
         btnTripMap.setOnClickListener (this)
+        val btnTripAdd = findViewById<Button>(R.id.btnTripAdd) as Button
+        btnTripAdd.setOnClickListener (this)
     }
 
     override fun onClick(view: View) {
@@ -28,6 +30,11 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             R.id.btnTripMap -> {
                 val intentMap = Intent(this, TripMapActivity::class.java)
                 startActivity(intentMap)
+            }
+
+            R.id.btnTripAdd -> {
+                val intentTripForm = Intent(this, TripFormActivity :: class.java)
+                startActivity(intentTripForm)
             }
         }
     }

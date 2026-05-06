@@ -1,3 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">CheemsTour</string>
+    <string name="view_map">Ver mapa</string>
+    <string name="btnTripMap">Mapa</string>
+    <string name="form_name">Nombre:</string>
+    <string name="form_city">Ciudad:</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_add">Agregar</string>
+    <string name="btnTripAdd">Agregar viaje</string>
+    <string name="textSavedTrip">Viaje guardado :D</string>
+    <string name="textNoSavedTrip">No se pudo guardar el viaje :(</string>
+    <string name="textSelectedLocation">Ubicación seleccionada</string>
+    <string name="textEmptyFields">Por favor, rellena todos los campos :D</string>
+    <string name="txtTittle">Bienvenido</string>
 </resources>
